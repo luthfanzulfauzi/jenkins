@@ -1,6 +1,6 @@
 ### Install Docker
 
-Installation source: [Docker Docs] (https://docs.docker.com/engine/install/ubuntu/)
+Installation source: [Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
 
 Clean Up previous installation
 ```

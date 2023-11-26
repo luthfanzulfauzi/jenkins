@@ -16,6 +16,6 @@ Installation Diagram:
 ![Installation Digagram](jenkins.drawio.png "Installation Diagram")
 
 Installation steps:
-- 1 [Docker](https://github.com/luthfanzulfauzi/K3S/blob/main/nginx/docs/install.md)
-- 2 [Jenkins Master](https://github.com/luthfanzulfauzi/K3S/blob/main/mysql/docs/mysql_install.md)
-- 3 [Jenkins Cloud Agent](https://github.com/luthfanzulfauzi/K3S/blob/main/server/docs/k3s_server_install.md)
+- 1 [Docker](https://github.com/luthfanzulfauzi/jenkins/blob/main/docker/docker_install.md)
+- 2 [Jenkins Master](https://github.com/luthfanzulfauzi/jenkins/blob/main/master/docs/jenkins_master.md)
+- 3 [Jenkins Cloud Agent](https://github.com/luthfanzulfauzi/jenkins/blob/main/agent/docs/jenkins_cloud_agent.md)

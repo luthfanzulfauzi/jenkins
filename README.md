@@ -19,3 +19,4 @@ Installation steps:
 - 1 [Docker](https://github.com/luthfanzulfauzi/jenkins/blob/main/docker/docker_install.md)
 - 2 [Jenkins Master](https://github.com/luthfanzulfauzi/jenkins/blob/main/master/docs/jenkins_master.md)
 - 3 [Jenkins Cloud Agent](https://github.com/luthfanzulfauzi/jenkins/blob/main/agent/docs/jenkins_cloud_agent.md)
+- 4 Sample python project pipeline : [link](https://github.com/luthfanzulfauzi/simple-python-pyinstaller-app/blob/master/jenkins/Jenkinsfile)

@@ -22,7 +22,7 @@ docker push <dockerhubuser>/<repository>:<imagetag>
 Configure Jenkins Cloud Agent
 
 Docker Cloud Details, for docker host URI use IP from alpine/socat container.
-![dockerclouddetails](dockerclouddetails.png "Docker Cloud Details")
+![dockerclouddetails](https://github.com/luthfanzulfauzi/jenkins/blob/main/dockerclouddetails.png "Docker Cloud Details")
 
 Docker Agent Template
-![dockeragenttemp](dockeragenttemp.png "Docker Agent Template")
+![dockeragenttemp](https://github.com/luthfanzulfauzi/jenkins/blob/main/dockeragenttemp.png "Docker Agent Template")
